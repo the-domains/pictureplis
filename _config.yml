@@ -1,16 +1,28 @@
-typography_spectrum: 0.6362297884188592
-color:
-  brandStrength: 0.023113167146220803
-  lightness: 0.7006191445980221
-  saturation: 0.9559782382566482
-  rhythmicContrast: 0.20805636188015342
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.22853226563893259
-name: pictureplis
 title: PICTUREPLIS
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6218638
+  brandStrength: 0.2293907
+  lightness: 0.6129032
+  brandColors:
+    - '#EDECF1'
+    - '#3B4248'
+    - '#010101'
+    - '#8F9595'
+    - '#D79401'
+  rhythmicContrast: 0.9408602
+typography_spectrum: 0.04659498
 description: 'just pictures, nothing else'
+layout_spectrum: 1
+name: pictureplis
