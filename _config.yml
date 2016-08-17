@@ -1,4 +1,3 @@
-layout_spectrum: 0.22853226563893259
 typography_spectrum: 0.6362297884188592
 color:
   brandStrength: 0.023113167146220803
@@ -6,9 +5,11 @@ color:
   saturation: 0.9559782382566482
   rhythmicContrast: 0.20805636188015342
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.22853226563893259
 name: pictureplis
+title: PICTUREPLIS
