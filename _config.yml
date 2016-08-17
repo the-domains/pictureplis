@@ -12,5 +12,9 @@ color:
     - '#8E2800'
 layout_spectrum: 0.22853226563893259
 name: pictureplis
+navigation:
+  - name: my blog about a trip through asia
+    url: www.pictureplis.com
+    type: external
 title: PICTUREPLIS
 description: 'just pictures, nothing else'
