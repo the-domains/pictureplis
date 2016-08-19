@@ -21,6 +21,9 @@ navigation:
   - name: India
     id: 5d78b680-a8b4-4dda-804a-db457638b160
     type: content
+  - name: Nockberge
+    id: 8c473b56-b353-497e-b739-06cf7aa72d86
+    type: content
 collections:
   - index:
       path: /
