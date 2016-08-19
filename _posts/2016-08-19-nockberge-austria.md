@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T13:27:18.508Z'
+datePublished: '2016-08-19T13:55:30.319Z'
 sourcePath: _posts/2016-08-19-nockberge-austria.md
-author: []
+author:
+  - name: Martin
 via: {}
-dateModified: '2016-08-19T13:27:17.771Z'
+dateModified: '2016-08-19T13:55:29.602Z'
 title: Nockberge - Austria
-publisher:
-  name: Martin Hinteregger
+publisher: {}
 description: Nockberge - Carinthia - Austria - Summer Sunset 2016
 starred: false
 inFeed: true
