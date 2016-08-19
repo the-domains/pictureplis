@@ -17,10 +17,6 @@ author:
   name: Martin Hinteregger
   email: martin.hint@gmail.com
 name: pictureplis
-navigation:
-  - name: travelblog
-    url: www.pictureplis.com
-    type: external
 collections:
   - index:
       path: /
