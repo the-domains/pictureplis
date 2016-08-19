@@ -1,4 +1,3 @@
-layout_spectrum: 0.643613084917888
 typography_spectrum: 0.14799224236048758
 color:
   saturation: 0.744263221975416
@@ -11,12 +10,17 @@ color:
     - '#A9CF54'
     - '#588F27'
   rhythmicContrast: 0.3010173465590924
+layout_spectrum: 0.643613084917888
 analytics:
   google: UA-82820124-1
 author:
   name: Martin Hinteregger
   email: martin.hint@gmail.com
 name: pictureplis
+navigation:
+  - name: India
+    id: 5d78b680-a8b4-4dda-804a-db457638b160
+    type: content
 collections:
   - index:
       path: /
