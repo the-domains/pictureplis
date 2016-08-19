@@ -1,4 +1,3 @@
-layout_spectrum: 0.39072923525236547
 typography_spectrum: 0.7840539698954672
 color:
   saturation: 0.6218638
@@ -11,6 +10,9 @@ color:
     - '#8F9595'
     - '#D79401'
   rhythmicContrast: 0.9408602
+layout_spectrum: 0.39072923525236547
+analytics:
+  google: UA-82820124-1
 author:
   name: Martin Hinteregger
   email: martin.hint@gmail.com
