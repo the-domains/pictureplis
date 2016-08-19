@@ -1,4 +1,20 @@
-title: PICTUREPLIS
+typography_spectrum: 0.04659498
+color:
+  saturation: 0.6218638
+  brandStrength: 0.2293907
+  lightness: 0.6129032
+  brandColors:
+    - '#EDECF1'
+    - '#3B4248'
+    - '#010101'
+    - '#8F9595'
+    - '#D79401'
+  rhythmicContrast: 0.9408602
+layout_spectrum: 1
+author:
+  name: Martin Hinteregger
+  email: martin.hint@gmail.com
+name: pictureplis
 collections:
   - index:
       path: /
@@ -11,18 +27,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6218638
-  brandStrength: 0.2293907
-  lightness: 0.6129032
-  brandColors:
-    - '#EDECF1'
-    - '#3B4248'
-    - '#010101'
-    - '#8F9595'
-    - '#D79401'
-  rhythmicContrast: 0.9408602
-typography_spectrum: 0.04659498
+title: PICTUREPLIS
 description: 'just pictures, nothing else'
-layout_spectrum: 1
-name: pictureplis
