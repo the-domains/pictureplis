@@ -18,9 +18,6 @@ author:
   email: martin.hint@gmail.com
 name: pictureplis
 navigation:
-  - name: Austria
-    id: 8c473b56-b353-497e-b739-06cf7aa72d86
-    type: content
   - name: travelblog
     url: www.pictureplis.com
     type: external
