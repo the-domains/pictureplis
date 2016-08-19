@@ -27,6 +27,9 @@ navigation:
   - name: travelblog
     url: www.pictureplis.com
     type: external
+  - name: Austria
+    id: 876ec3a9-2c30-431a-8659-62f21306b8de
+    type: content
 collections:
   - index:
       path: /
