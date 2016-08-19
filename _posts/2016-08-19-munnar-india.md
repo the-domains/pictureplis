@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T13:29:31.805Z'
+datePublished: '2016-08-19T13:50:45.335Z'
 sourcePath: _posts/2016-08-19-munnar-india.md
-author: []
+author:
+  - name: Martin
 via: {}
-dateModified: '2016-08-19T13:29:31.298Z'
+dateModified: '2016-08-19T13:50:44.839Z'
 title: Munnar - India
-publisher:
-  name: Martin Hinteregger
+publisher: {}
 description: Tea Hills of Munnar - Southern India - Fall 2015
 starred: false
 inFeed: true
