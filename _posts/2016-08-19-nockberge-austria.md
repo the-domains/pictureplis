@@ -1,14 +1,14 @@
 ---
-dateModified: '2016-08-17T22:16:20.825Z'
+datePublished: '2016-08-19T13:25:21.693Z'
+sourcePath: _posts/2016-08-19-nockberge-austria.md
 author: []
 via: {}
+dateModified: '2016-08-19T13:25:20.609Z'
 title: Nockberge - Austria
 publisher:
   name: Martin Hinteregger
 description: ''
-datePublished: '2016-08-19T13:12:27.591Z'
 starred: false
-sourcePath: _posts/2016-08-19-nockberge-austria.md
 inFeed: true
 hasPage: false
 inNav: false
