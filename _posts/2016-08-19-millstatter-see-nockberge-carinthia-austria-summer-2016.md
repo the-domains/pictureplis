@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-19T14:06:57.228Z'
+datePublished: '2016-08-19T14:13:43.718Z'
+sourcePath: _posts/2016-08-19-millstatter-see-nockberge-carinthia-austria-summer-2016.md
 author:
   - name: Martin
 via: {}
-dateModified: '2016-08-19T14:06:53.849Z'
+dateModified: '2016-08-19T14:13:43.109Z'
 title: ''
 publisher: {}
 description: Millstätter See-Nockberge-Carinthia-Austria-Summer 2016
 starred: false
-sourcePath: _posts/2016-08-19-millstatter-see-nockberge-carinthia-austria-summer-2016.md
 inFeed: true
 hasPage: true
 inNav: false
