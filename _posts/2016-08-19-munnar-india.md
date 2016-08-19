@@ -1,14 +1,14 @@
 ---
+datePublished: '2016-08-19T13:25:34.375Z'
+sourcePath: _posts/2016-08-19-munnar-india.md
 author: []
-title: Munnar - India
-description: ''
-dateModified: '2016-08-17T22:14:44.767Z'
 via: {}
+dateModified: '2016-08-19T13:25:33.377Z'
+title: Munnar - India
 publisher:
   name: Martin Hinteregger
-datePublished: '2016-08-19T13:12:22.836Z'
+description: ''
 starred: false
-sourcePath: _posts/2016-08-19-munnar-india.md
 inFeed: true
 hasPage: false
 inNav: false
